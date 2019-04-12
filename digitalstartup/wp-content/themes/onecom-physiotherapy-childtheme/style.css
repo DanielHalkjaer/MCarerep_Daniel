@@ -1,0 +1,21 @@
+/*
+Theme Name: onecom-physiotherapy-childtheme
+Theme URI: https://www.lyrathemes.com/onecom-physiotherapy/
+Author: danielhalkjaer
+Author URI: https://www.lyrathemes.com/
+Description: onecom-physiotherapy-childtheme is a clean wordpress theme, for MCare.
+Version: 5.1.1
+License: GPLv3 or later
+License URI: http://digitalstartup.danielhalkjaer.com
+Text Domain: onecom-physiotherapy-childtheme
+Domain Path: /languages/
+Tags: one-column, two-columns, right-sidebar, grid-layout, flexible-header, custom-header, custom-colors, custom-menu, featured-image-header, featured-images, full-width-template, theme-options, translation-ready, blog, news, portfolio
+Template: onecom-physiotherapy
+*/
+
+.site-header header {
+    min-height: 0px;
+    display: none;
+    align-items: center;
+    
+}

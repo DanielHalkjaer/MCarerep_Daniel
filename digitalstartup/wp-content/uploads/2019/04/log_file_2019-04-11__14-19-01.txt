@@ -1,0 +1,38 @@
+
+---Downloaded files---
+The import files for: Theme demo data were successfully downloaded!
+Initial max execution time = 50
+Files info:
+Site URL = https://digitalstartup.danielhalkjaer.com
+Data file = /customers/f/8/7/danielhalkjaer.com/httpd.www/digitalstartup/wp-content/themes/onecom-physiotherapy/importer/content.xml
+Widget file = /customers/f/8/7/danielhalkjaer.com/httpd.www/digitalstartup/wp-content/uploads/2019/04/demo-widgets-import-file_2019-04-11__14-19-01.json
+Customizer file = not defined!
+Redux files:
+not defined!
+
+---Importing widgets---
+Sidebar : 
+
+Search - No Title - Widget already exists
+Recent Posts - No Title - Widget already exists
+Recent Comments - No Title - Widget already exists
+Archives - No Title - Widget already exists
+Categories - No Title - Widget already exists
+Meta - No Title - Widget already exists
+
+Footer 1 : 
+
+Text - GET IN TOUCH - Widget already exists
+
+Footer 2 : 
+
+Text - OPENING HOURS - Widget already exists
+
+Footer 3 : 
+
+Social Icons - FOLLOW US - Widget already exists
+
+
+
+---pt-ocdi/after_import---
+
